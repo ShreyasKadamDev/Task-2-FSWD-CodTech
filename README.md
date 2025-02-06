@@ -5,4 +5,4 @@
 
 # Description: This is a basic real-time chat application built using Socket.io, HTML, CSS, and JavaScript. It enables users to send and receive messages instantly within a shared chat room. The app utilizes WebSockets for real-time communication and features a minimalistic UI for seamless interaction. It is lightweight, easy to deploy, and serves as a foundation for building more advanced chat applications.
 
-#Output:
+#Output:![Image](https://github.com/user-attachments/assets/358f671b-1104-4428-bb06-b3b3fbef63df)
